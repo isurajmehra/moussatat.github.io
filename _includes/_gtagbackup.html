@@ -1,0 +1,22 @@
+{% if site.gtag %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
+    <script>
+          window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+
+    gtag('event', 'screen_view', { 'screen_name': 'Home'});
+    gtag('event', 'timing_complete', {
+      'name' : 'load',
+      'value' : 3000,
+      'event_category' : 'JS Dependencies'
+        });
+    gtag('config', '{{ site.gtag }}', {
+          'page_title' : 'homepage',
+          'page_path': '/home',
+          'anonymize_ip': true
+        });
+</script>
+{% endif %}
