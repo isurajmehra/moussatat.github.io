@@ -24,6 +24,7 @@ title: Mathématiques 4èmes E
 - [x] **Chapitre 06 Proportionnalité** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/19nRah0kfsMexCLsCufDazef7nfWxjXA4/view) et [Exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1kslQxbkgia2_U_4Bc95Yy6y5TNQ-PhpS/view)  
 	Flash Tests [01 <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/15_W9DFZfrbtB0VYKjpe3PfgfmfTfFC_E/view); [02 <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1X8iKkW38vb-TeNmGB4bQIhkCvEQekWlV/view).
 	Évaluation [01 <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1srntLuP0LyN0PoKwjA6SeXcC-M_RB5Gy/view) et 02 <i class="far fa-file-pdf"></i> (à venir)
+
 ## du 9 Mar au 17 Avril 2020
 - [ ] **Chapitre 07 Calcul littéral** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1Ts6BGoqN_34-zTxUCrl_tDXCKfUus82D/view) et [Exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1d1Py2nQWBnmNTumboqANWVKgWw9kO6vh/view)  
 	Évaluation <i class="far fa-file-pdf"></i> (à venir)
