@@ -36,7 +36,8 @@ title: Mathématiques 3èmes C
 ## du 9 Mar au 17 Avril 2020
 - [ ] **Chapitre 09 Fonctions linéaires** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1SnQoPsfM0QJH6RPYAzqt27UhA7kJoVhH/view), [exercices 1 <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1-FHnt5_ABfVQKwXehR_87ChLGtC1yGI5/view) et [exercices 2 <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1cjwA7PG2CtgZpmY_Erwgz1SYC76cRAO7/view)
 - [ ] **Chapitre 10 Statistiques** [Cours et exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/11ABImX-oE_Ltu_Bu5Ete_GFyUIUyAmwP/view)
-- [ ] **Chapitre 11 Fonctions affines** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1XLYggKOQiuE920tfLyjAO7gPu1es4-Vj/view) et [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1m_YGLdh_WhboUSYBQVIDTMLTR4lhUwsx/view) 
+- [ ] **Chapitre 11 Fonctions affines** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1XLYggKOQiuE920tfLyjAO7gPu1es4-Vj/view) et [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1m_YGLdh_WhboUSYBQVIDTMLTR4lhUwsx/view).
+
 ## du 5 Mai au 3 Juillet 2020 
 - [ ] **Chapitre 12 Probabilités**
 - [ ] **Chapitre 13 Solides de l'espace**
