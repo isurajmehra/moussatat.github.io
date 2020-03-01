@@ -28,13 +28,13 @@ title: Mathématiques 4èmes E
 ## du 9 Mar au 17 Avril 2020
 - [ ] **Chapitre 07 Calcul littéral** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1Ts6BGoqN_34-zTxUCrl_tDXCKfUus82D/view) et [Exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1d1Py2nQWBnmNTumboqANWVKgWw9kO6vh/view)  
 	Évaluation <i class="far fa-file-pdf"></i> (à venir)
-- [ ] Chapitre 08 **Puissances** <i class="far fa-file-pdf"></i> 
-- [ ] Chapitre 09 **Équations** <i class="far fa-file-pdf"></i> 
-- [ ] Chapitre 10 **Triangles égaux, semblables et trigonométrie** <i class="far fa-file-pdf"></i> 
+- [ ] **Chapitre 08 Puissances** <i class="far fa-file-pdf"></i> 
+- [ ] **Chapitre 09 Équations** <i class="far fa-file-pdf"></i> 
+- [ ] **Chapitre 10 Triangles égaux, semblables et trigonométrie** <i class="far fa-file-pdf"></i> 
  
 ## du 5 Mai au 3 Juillet 2020
-- [ ] Chapitre 11 **Notion de fonctions** <i class="far fa-file-pdf"></i> 
-- [ ] Chapitre 12 **Statistiques** <i class="far fa-file-pdf"></i> 
-- [ ] Chapitre 13 **Probabilités** <i class="far fa-file-pdf"></i> 
-- [ ] Chapitre 14 **Solides de l'espace** <i class="far fa-file-pdf"></i> 
+- [ ] **Chapitre 11 Notion de fonctions** <i class="far fa-file-pdf"></i> 
+- [ ] **Chapitre 12 Statistiques** <i class="far fa-file-pdf"></i> 
+- [ ] **Chapitre 13 Probabilités** <i class="far fa-file-pdf"></i> 
+- [ ] **Chapitre 14 Solides de l'espace** <i class="far fa-file-pdf"></i> 
  
