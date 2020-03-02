@@ -46,7 +46,7 @@ pagination:
 	- Flash Tests [01-Inéquations <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1rlxjy3vbqtxG850mMvT_6ey1vQNIHAbe/view), [02-Fonctions <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1UPD3OYKlPv_Ypu3-jtM_TDngInRaiOtz/view).
 
 ## du 9 Mar au 17 Avril 2020 
-- [ ] **Chapitre 8 Probabilités** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/16HF6mebjvY8ZSH_vOuyv_QR4rWKnUEWU/view)
+- [ ] **Chapitre 8 Probabilités** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1UTLOkXJ2R-JRybvk6kackZ_RuuXuKyRZ/view)
 - [ ] **Algorithmie**  
 	- Instruction conditionnelles ```if elif else``` [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1_p0MRbXAuharU-1045aaef9du1hd917n/view)
 	- TP2 Principe d'accumulateur [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1YbW__48RrP63z6j0nI_JJ9uJgcFfXjEe/view)

@@ -53,7 +53,7 @@ pagination:
 	- Intérrogation Inéquations et fonctions : le [sujet <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1gy5ZWSzKldKVJHg4-owqRXJ4Fyq7ONrL/view) et la [correction <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/15-LkimIoOAy9dzbbaKcwHhKOiFLW8Jgg/view).
 	
 ## du 9 Mar au 17 Avril 2020
-- [ ] **Chapitre 8 Probabilités** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/16HF6mebjvY8ZSH_vOuyv_QR4rWKnUEWU/view)
+- [ ] **Chapitre 8 Probabilités** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1UTLOkXJ2R-JRybvk6kackZ_RuuXuKyRZ/view)
 - [ ] **Chapitre 9 Vecteurs et équations de droites(2)**
 - [ ] **Chapitre 10 Fonctions de références**
 
