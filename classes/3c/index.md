@@ -34,8 +34,8 @@ title: Mathématiques 3èmes C
 	Évaluation Trigonométrie <i class="far fa-file-pdf"></i>
 
 ## du 9 Mar au 17 Avril 2020
-- [ ] **Chapitre 09 Fonctions linéaires** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1SnQoPsfM0QJH6RPYAzqt27UhA7kJoVhH/view), [exercices 1 <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1-FHnt5_ABfVQKwXehR_87ChLGtC1yGI5/view) et [exercices 2 <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1cjwA7PG2CtgZpmY_Erwgz1SYC76cRAO7/view)
-- [ ] **Chapitre 10 Statistiques** [Cours et exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/11ABImX-oE_Ltu_Bu5Ete_GFyUIUyAmwP/view)
+- [ ] **Chapitre 09 Fonctions linéaires** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1UZ_3BkSpunGfG9r09rXG1fkvSaj6k5OU/view), [exercices A <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/14NnRACBdq88n2htAx1aCSSmIOsu_sua9/view), [B <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1JkjaliLbjS6ytVTrgVGbUjzW6BK7HMF0/view) et [C <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1eucsAlrn-e873X-YL_tEdp1vV7LHx0-j/view)
+- [ ] **Chapitre 10 Statistiques** [Cours et exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1TiVcr7Wm6UymcSCiwQF9ibuwyHDZTBtH/view)
 - [ ] **Chapitre 11 Fonctions affines** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1XLYggKOQiuE920tfLyjAO7gPu1es4-Vj/view) et [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1m_YGLdh_WhboUSYBQVIDTMLTR4lhUwsx/view).
 
 ## du 5 Mai au 3 Juillet 2020 
