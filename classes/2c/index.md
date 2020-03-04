@@ -54,10 +54,12 @@ pagination:
 	
 ## du 9 Mar au 17 Avril 2020
 - [ ] **Chapitre 8 Probabilités** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1UTLOkXJ2R-JRybvk6kackZ_RuuXuKyRZ/view)
-- [ ] **Chapitre 9 Vecteurs et équations de droites(2)**
-- [ ] **Chapitre 10 Fonctions de références**
-
+- [ ] **Chapitre 9 Vecteurs et équations de droites(2)** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1kka2Ui7xIrhUYfWfR_i5kyYBTQp5Md96/view) et [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/13xPyTgqbMfu5svtRahe6ssyRnLUXe3m-/view).
+- [ ] **Chapitre 10  Fonctions affines et systèmes d'équations**
+- [ ] **Intérrogations et DS**   
+	- DS 3 [<i class="far fa-file-pdf"></i>]( )
+	
 ## du 5 Mai au 3 Juillet 2020
-- [ ] **Fonctions affines et systèmes d'équations**
+- [ ] **Fonctions de références**
 - [ ] **Statistiques**
 - [ ] **Géométrie**

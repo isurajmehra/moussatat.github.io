@@ -41,4 +41,3 @@ title: Mathématiques 3èmes C
 ## du 5 Mai au 3 Juillet 2020 
 - [ ] **Chapitre 12 Probabilités**
 - [ ] **Chapitre 13 Solides de l'espace**
-- [ ] **Chapitre 14 Révisions**
