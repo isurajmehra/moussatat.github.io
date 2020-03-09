@@ -26,7 +26,7 @@ title: Mathématiques 4èmes E
 	Évaluation [01 <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1srntLuP0LyN0PoKwjA6SeXcC-M_RB5Gy/view) et 02 <i class="far fa-file-pdf"></i> (à venir)
 
 ## du 9 Mar au 17 Avril 2020
-- [ ] **Chapitre 07 Calcul littéral** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1Ts6BGoqN_34-zTxUCrl_tDXCKfUus82D/view) et [Exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1d1Py2nQWBnmNTumboqANWVKgWw9kO6vh/view)  
+- [ ] **Chapitre 07 Calcul littéral** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1Ts6BGoqN_34-zTxUCrl_tDXCKfUus82D/view) et [Exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1abb5WPSMa8krM2fXRowJLdpy1zRPDAL2/view)  
 	Évaluation <i class="far fa-file-pdf"></i> (à venir)
 - [ ] **Chapitre 08 Puissances** <i class="far fa-file-pdf"></i> 
 - [ ] **Chapitre 09 Équations** <i class="far fa-file-pdf"></i> 
