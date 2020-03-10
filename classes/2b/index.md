@@ -29,7 +29,7 @@ pagination:
 	- Intérrogation racines carrées et puissances [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1BFkfbIzZH1KUCIYKZP0rDJO6Ca8D2EoL/view)
 	- Intérrogation information chiffrée [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/15TfwWCX1_gI9mRcc3PT_Ol0QJuL5Fc0R/view)
 ## du 4 Nov au 20 Déc 2019
-- [x] **Chapitre 2 Automatismes** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1ezf5o5nsZ2nEPqPg2yekOkO7BR98PsKP/view)
+- [x] **Chapitre 2 Automatismes** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1aGfmUChKAvxm8R9gfyTih5IXmGCfLWro/view)
   - Factorisation Méthode 2 à l'aide d'identités remarquables
   - Racines carrées
 - [x] **Chapitre 3 Information chiffrée** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/14Zak4LHb3k1ZSVaP9juqV-IQDW_EjHTo/view)
