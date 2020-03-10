@@ -53,7 +53,9 @@ pagination:
 	- Intérrogation Inéquations et fonctions : le [sujet <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1gy5ZWSzKldKVJHg4-owqRXJ4Fyq7ONrL/view) et la [correction <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/15-LkimIoOAy9dzbbaKcwHhKOiFLW8Jgg/view).
 	
 ## du 9 Mar au 17 Avril 2020
-- [ ] **Chapitre 8 Probabilités** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1UTLOkXJ2R-JRybvk6kackZ_RuuXuKyRZ/view)
+- [x] **Chapitre 8 Probabilités** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1OrL_zmB1Tmj8sOxBOXrmcaktsD0fS3SF/view), 10/03/2019
+	- AP Arbres de probabilité et application à un modèle génétique (Loi de Hardy-Weinberg) [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1jwBae4ynJtT_hR551sdaGZOdmuxngQSB/view) 
+	- Échantillonnage [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/18jG13gse9liv4dQNJfZqLuwEB6yU_ned/view)
 - [ ] **Chapitre 9 Vecteurs(2)** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1kka2Ui7xIrhUYfWfR_i5kyYBTQp5Md96/view) et [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/13xPyTgqbMfu5svtRahe6ssyRnLUXe3m-/view).
 - [ ] **Chapitre 10 Équations de droites** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1bctJvsG3FXpszmO-vgv0w6llwjgM1x2g/view)
 - [ ] **Chapitre 11 Fonctions de références** 

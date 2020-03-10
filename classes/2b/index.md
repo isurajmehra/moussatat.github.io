@@ -39,17 +39,24 @@ pagination:
 ## du 6 Jan au 21 Fév 2020
 - [x] **Chapitre 6 Généralités sur les fonctions**  [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1Eg55zarmNretTjQPfhqtirAZWkJvVsD3/view)  
 	Un article [Wikipedia <i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/History_of_the_function_concept) en anglais sur l'évolution du concept de fonction.
-- [ ] **Chapitre 7 Relation d'ordre dans \\(\mathbb{R}\\) et résolution d'inéquations** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/17Oz3YsTiNMPSlOdWE89cey8A89NrJxqI/view)
-- [ ] **Intérrogations et DS**  
+- [x] **Chapitre 7 Relation d'ordre dans \\(\mathbb{R}\\) et résolution d'inéquations** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/17Oz3YsTiNMPSlOdWE89cey8A89NrJxqI/view)
+- [x] **Intérrogations et DS**  
 	- Intérrogation vecteurs [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1oztvYjcc6UbfVCEYpn_NqNgX4Qn3JY1C/view)
 	- DS 2 [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1XodPUH5EAio0wDFstf3S_X1O7XCsTRqX/view)
 	- Flash Tests [01-Inéquations <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1rlxjy3vbqtxG850mMvT_6ey1vQNIHAbe/view), [02-Fonctions <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1UPD3OYKlPv_Ypu3-jtM_TDngInRaiOtz/view).
 
 ## du 9 Mar au 17 Avril 2020 
-- [ ] **Chapitre 8 Probabilités** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1UTLOkXJ2R-JRybvk6kackZ_RuuXuKyRZ/view)
+- [x] **Chapitre 8 Probabilités** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1OrL_zmB1Tmj8sOxBOXrmcaktsD0fS3SF/view), 10/03/2019
+	- AP Arbres de probabilité et application à un modèle génétique (Loi de Hardy-Weinberg) [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1jwBae4ynJtT_hR551sdaGZOdmuxngQSB/view) 
+	- Échantillonnage [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/18jG13gse9liv4dQNJfZqLuwEB6yU_ned/view)
+- [ ] **Chapitre 9 Vecteurs(2)** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1kka2Ui7xIrhUYfWfR_i5kyYBTQp5Md96/view) et [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/13xPyTgqbMfu5svtRahe6ssyRnLUXe3m-/view).
+- [ ] **Chapitre 10 Équations de droites** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1bctJvsG3FXpszmO-vgv0w6llwjgM1x2g/view)
+- [ ] **Chapitre 11 Fonctions de références** 
 - [ ] **Algorithmie**  
 	- Instruction conditionnelles ```if elif else``` [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1_p0MRbXAuharU-1045aaef9du1hd917n/view)
 	- TP2 Principe d'accumulateur [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1YbW__48RrP63z6j0nI_JJ9uJgcFfXjEe/view)
 	- TP3 Intérêts simples ou composés [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1D6Y5VRk06KYuMMGoMu-srNZMEB7jXuIk/view)
-
+- [ ] **Intérrogations et DS**   
+	- DS 3 [<i class="far fa-file-pdf"></i>]( )
+	
 ## du 5 Mai au 3 Juillet 2020
