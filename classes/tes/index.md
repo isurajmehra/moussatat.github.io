@@ -20,6 +20,5 @@ title: Mathématiques TES (AP)
 - AP 07 Février 2020 :  annulée pour sortie Mondial des Métiers avec les 2ndes  
 - AP 14 Février 2020 :  annulée pour oraux de stages avec les 3e
 - AP 21 Février 2020 : [**Calcul de primitives <i class="far fa-file-pdf"></i>**](https://drive.google.com/file/d/19Lrz3pDzl7TJ2gKlze8M_dP0BQOf4xY9/view) + [**formulaire <i class="far fa-file-pdf"></i>**](https://drive.google.com/file/d/12DFgu4mEKYYvcsRYpHctROtp4Nn31X1l/view).
-- AP 13 Mars 2020 :  
 - AP 24 Avril 2020 :  
 - AP 15 Mai 2020 :  
