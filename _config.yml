@@ -280,9 +280,14 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  
+
+paginate: 1
+paginate_path: "/page:num/"
+
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-feed
+  ## - jekyll-paginate-v2
+  - jekyll-paginate 
   - jekyll-sitemap
   
 gems:
