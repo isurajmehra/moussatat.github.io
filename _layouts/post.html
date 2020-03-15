@@ -72,12 +72,12 @@ layout: base
 
 
       <ul class="pager blog-pager">
-        {% if paginator.previous.url %}
+        {% if paginator.previous_page_path %}
         <li class="previous">
           <a href="{{ paginator.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{paginator.previous.title}}">&larr; Billet précédent</a>
         </li>
         {% endif %}
-        {% if paginator.next.url %}
+        {% if paginator.next_page %}
         <li class="next">
           <a href="{{ paginator.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{paginator.next.title}}">Billet suivant &rarr;</a>
         </li>
