@@ -86,18 +86,7 @@ layout: base
   
   
   
-  
-  
-  
-  
-  <!-- Just some nice to have styles for the pager buttons -->
-<style>
-  ul.pager { text-align: center; list-style: none; }
-  ul.pager li {display: inline;border: 1px solid black; padding: 10px; margin: 5px;}
-</style>
-
-<div class="home">
-
+   
   <h1 class="page-heading">Posts</h1>
   
   {{ content }}
@@ -107,7 +96,7 @@ layout: base
         Here is the main paginator logic called.
         All calls to site.posts should be replaced by paginator.posts 
     -->
-    {% for post in paginator.posts %}
+    {% for post in paginator.categories['2C'] %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -135,11 +124,7 @@ layout: base
       {% endif %}
   </ul>
   {% endif %}
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
-</div>
-
+ 
 
 </div>
 
