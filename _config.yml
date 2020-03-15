@@ -212,8 +212,8 @@ exclude:
   - CHANGELOG.md
   - CNAME
   - Dockerfile
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
   - Vagrantfile
@@ -282,7 +282,7 @@ pagination:
   sort_reverse: true
   
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   
 gems:
