@@ -281,9 +281,15 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
   
-plugins:
-  - jekyll-paginate
+plugins: 
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-mentions
+  - jekyll-seo-tag
+
+
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

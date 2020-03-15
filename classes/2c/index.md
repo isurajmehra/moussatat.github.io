@@ -4,6 +4,8 @@ title: Mathématiques 2ndes C
 pagination: 
   enabled: true
   category: 2c
+paginate: 5
+paginate_path: "/2c/page:num/"
 ---
 
 # Derniers billets
