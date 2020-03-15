@@ -69,21 +69,16 @@ layout: base
 
 
  
-    {% if paginator.total_pages > 1 %}
+ 
   <ul class="pager">
-      {% if paginator.previous_page %}
-      <li class="previous">
+       <li class="previous">
           <a href="{{ paginator.previous_page_path |  relative_url }}" data-toggle="tooltip" data-placement="top" title="{{paginator.previous.title}}">&larr; Billet précédent</a>
       </li>
-      {% endif %}
-      {% if paginator.next_page %}
-      <li class="next">
+        <li class="next">
           <a href="{{ paginator.next_page_path |  relative_url }}" data-toggle="tooltip" data-placement="top" title="{{paginator.next.title}}">Billet suivant &rarr;</a>
       </li>
-      {% endif %}
-  </ul>
-  {% endif %}
-  
+   </ul>
+   
   
       
       {% if page.comments %}
