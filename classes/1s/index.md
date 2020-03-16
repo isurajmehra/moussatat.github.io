@@ -15,7 +15,7 @@ Les **Statistiques** [<i class="far fa-file-pdf"></i>](https://drive.google.com/
 
 Enfin le **Produit scalaire** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/19DqzGdgtADrjqO9SGeHVktfuyF3ue7IO/view). J'ai démarré directement par la définition dans un repère orthonormé,  pour déduire les propriétés et l'indépendance vis-à-vis du repère. Il manquait quelques heures pour approfondir les relations métriques dans le triangle mais surtout aborder les théorèmes de la médiane. Je n'ai pas donné le problème classique du miroir parabolique car trop calculatoire. Il serait plus malin d'aborder la distance d'un point à une droite dans un repère orthonormé par une démonstration sans mots (ou presque)[^2] :
 
-<p align="center" markdown="1"> 
+<p text-align="center" markdown="1"> 
 	![An Easy Way from a Point to a Line](https://i.imgur.com/Dby6zMs.jpg)
 </p>
 
