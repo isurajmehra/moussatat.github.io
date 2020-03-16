@@ -86,7 +86,7 @@ social-network-links:
 #  stackoverflow: "3943160/zenxbear"
 #  snapchat: zenxbear
 #  instagram: zenxbear
-  youtube: user/zenxbear
+#  youtube: user/zenxbear
 #  spotify: 
 #  telephone: +
 #  steam: zenxbear
@@ -97,7 +97,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+#  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
