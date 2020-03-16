@@ -9,7 +9,7 @@ La **Dérivation** [<i class="far fa-file-pdf"></i>](https://drive.google.com/fi
 Les **Statistiques** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1o9pVMhjekkTV2QbmzOJZbXHpFusoE9tB/view) étaient plus simples et se terminent par les comparaisons de séries statistiques. La dénomination **Règle des 3/4-1/2** est utilisée pour les comparaisons classiques ou plus de la 1/2 des individus d 'une population B ont une valeur supérieure aux 3/4 des individus d'une population A. J'aurais aimé aborder des jalons supérieurs comme précisé dans [&laquo; Towards more accessible conceptions of statistical inference
 &raquo;](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-985X.2010.00678.x)[^1].
  
-<p align="center" markdown="1"> 
+<p text-align="center" markdown="1"> 
 	![on to formal inference](https://imgur.com/nLCEAZP.gif)
 </p>
 
