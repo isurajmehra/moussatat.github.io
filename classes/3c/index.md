@@ -28,9 +28,9 @@ title: Mathématiques 3èmes C
 - [x] **Chapitre 05** Fin + évaluation 
 - [x] **Chapitre 06 Généralités sur les fonctions** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1KDtYlbn0ZisVboDTmNjGk3qSinrD_oQb/view), 19/01/2020
 - [x] **Brevet Blanc** Vendredi 24 Janvier 2020. [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/13wE3gQRNQ0f7Z-nLowpSXPVKhSCbnOhJ/view)
-- [ ] **Chapitre 07 Équations** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1VkkUqpPz3B3kLsqoNd5UbhlGH9t3VXPz/view), 19/01/2020  
+- [x] **Chapitre 07 Équations** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1VkkUqpPz3B3kLsqoNd5UbhlGH9t3VXPz/view), 19/01/2020  
 	Évaluation Fonctions et Équations <i class="far fa-file-pdf"></i>
-- [ ] **Chapitre 08 Trigonométrie** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/13BH-1m7E9sF9-26Of6raJGMfYsBH9OCn/view), [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1fp6uwoi8hQtOWlSyiZbH9KcMo63hIu8o/view) et [AP <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1XuhncvsoSOf4pDarKgZDnKeMxfXxb_cH/view) 05/02/2020  
+- [x] **Chapitre 08 Trigonométrie** [Cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/13BH-1m7E9sF9-26Of6raJGMfYsBH9OCn/view), [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1fp6uwoi8hQtOWlSyiZbH9KcMo63hIu8o/view) et [AP <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1XuhncvsoSOf4pDarKgZDnKeMxfXxb_cH/view) 05/02/2020  
 	Évaluation Trigonométrie <i class="far fa-file-pdf"></i>
 
 ## du 9 Mar au 17 Avril 2020
