@@ -57,6 +57,6 @@ pagination:
 	- TP2 Principe d'accumulateur [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1YbW__48RrP63z6j0nI_JJ9uJgcFfXjEe/view)
 	- TP3 Intérêts simples ou composés [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1D6Y5VRk06KYuMMGoMu-srNZMEB7jXuIk/view)
 - [ ] **Intérrogations et DS**   
-	- DS 3 [<i class="far fa-file-pdf"></i>]( )
+	- DS 3 [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/10kccTjuwSe5Lur7b8EUNgL0v1GviuNim/view)
 	
 ## du 5 Mai au 3 Juillet 2020
