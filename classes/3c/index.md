@@ -19,10 +19,10 @@ title: Mathématiques 3èmes C
 ## du 4 Nov au 20 Déc 2019
 - [x] **Chapitre 03 Puissances et racines carrées** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1_pHzYnhO1prBzoLBCUUu40Rdpmm0D8XM/view)
 - [x] **Chapitre 04 Calcul littéral** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1JQ7UsFG3VqQsYGKuFxaBvLLukkGy3hhQ/view)
-- [ ] **Chapitre 05** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1nY7AvUjTjDgrxGQUHPq8SXhI-bW2dKxG/view), 19/01/2020
+- [x] **Chapitre 05** [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1nY7AvUjTjDgrxGQUHPq8SXhI-bW2dKxG/view), 19/01/2020
 	- [x] Propriétés des triangles et critères d'égalité
 	- [x] Théorème de Thalès et sa réciproque
-	- [ ] Critères de similitude des triangles
+	- [x] Critères de similitude des triangles
 
 ## du 6 Jan au 21 Fév 2020
 - [x] **Chapitre 05** Fin + évaluation 
