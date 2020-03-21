@@ -113,7 +113,7 @@ img {
 p + ul {
     margin-top: -30px;
 }
-ul + p {
+p {
     margin-top: -10px;
 }
  
