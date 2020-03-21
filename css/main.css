@@ -109,11 +109,13 @@ img {
   padding-top: 60px;
   margin-top: -25px;
 }
-
+/* --- Modifier l'espace entre listes ordonnées et paragraphe --- */
 p + ul {
     margin-top: -30px;
 }
-
+ul + p {
+    margin-top: -15px;
+}
  
 
 /* --- Navbar --- */
