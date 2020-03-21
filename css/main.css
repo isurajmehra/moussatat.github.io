@@ -110,6 +110,10 @@ img {
   margin-top: -25px;
 }
 
+p + ul {
+    margin-top: -10px;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
