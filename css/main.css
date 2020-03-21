@@ -110,8 +110,8 @@ img {
   margin-top: -25px;
 }
 
-p + ul {
-    margin-top: -30px;
+p, ul {
+    display: inline;
 }
 
 /* --- Navbar --- */
